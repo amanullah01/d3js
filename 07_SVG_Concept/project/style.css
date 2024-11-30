@@ -8,3 +8,7 @@ rect{
 text.name{
     fill: white;
 }
+
+text{
+    fill: teal;
+}
